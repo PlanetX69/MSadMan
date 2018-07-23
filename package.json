@@ -1,12 +1,4 @@
-{
-  "name": "DrowN ",
-  "version": "2.1.0",
-  "description": "-- AWESOMENESS --",
-  "main": "bot.js",
-  "scripts": {
-    "test": "node bot.js"
-  },
-  "requires": true,
+"requires": true,
   "lockfileVersion": 1,
   "dependencies": {
     "ajv": {

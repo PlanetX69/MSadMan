@@ -1,4 +1,12 @@
-"requires": true,
+{
+  "name": "XD",
+  "version": "2.1.0",
+  "description": "-- AWESOMENESS --",
+  "main": "music.js",
+  "scripts": {
+    "test": "node music.js"
+  },
+  "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
     "ajv": {

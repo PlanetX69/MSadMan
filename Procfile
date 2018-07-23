@@ -1,1 +1,1 @@
-Worker: npm install ffmpeg
+Worker: node bot.js

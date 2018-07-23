@@ -31,7 +31,7 @@
     "superagent": "^3.8.3",
     "youtube-info": "^1.2.0",
     "ytdl-core": "^0.20.4"
-    "discord.js": "^11.2.1",
+    "discord.js": "^11.3.2",
     "hypixel-api": "^1.0.0",
   },
   "engines": {
